@@ -8,7 +8,10 @@
   
 ## About
  
-This app shows real-time weather updates for your current location and any custom location you set.
+This app shows real-time weather updates for your current location and any custom location you set. 
 
 ![git](https://user-images.githubusercontent.com/50599874/62951094-5426bb00-bdb7-11e9-91e8-dab24651b20a.png)
 
+## API 
+
+Implemented [OpenWeatherMap](https://openweathermap.org) API to get weather data.
