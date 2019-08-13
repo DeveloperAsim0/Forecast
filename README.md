@@ -16,7 +16,19 @@ This app shows real-time weather updates for your current location and any custo
 
 Implemented [OpenWeatherMap](https://openweathermap.org) API to get weather data.
 
+## TODO
+
+✅ Get real-time weather updates 
+
+⏳ Update when pull down 
+
+⏳ Background animation 
+
 ## Requirements
 
 - Xcode 10.0+
 - Cocoapods installed on your system 
+
+## Contributions
+
+Contributions are very welcome. Please do not commit to master.
