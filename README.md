@@ -15,3 +15,8 @@ This app shows real-time weather updates for your current location and any custo
 ## API 
 
 Implemented [OpenWeatherMap](https://openweathermap.org) API to get weather data.
+
+## Requirements
+
+- Xcode 10.0+
+- Cocoapods installed on your system 
