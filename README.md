@@ -14,7 +14,9 @@ This app shows real-time weather updates for your current location and any custo
 
 ## API 
 
-Implemented [OpenWeatherMap](https://openweathermap.org) API to get weather data.
+1. Implemented [OpenWeatherMap](https://openweathermap.org) API to get weather data.
+2. CocoaPods used ~> [Alamofire](https://github.com/Alamofire/Alamofire), [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON)
+3. Standard Libraries used ~> [Core Location](https://developer.apple.com/documentation/corelocation)
 
 ## TODO  [ ✅: Done, ⏳: Working on it, 🗓: Future plan ]
 
@@ -28,7 +30,7 @@ Implemented [OpenWeatherMap](https://openweathermap.org) API to get weather data
 
 ⏳ The low and high temperature for the current day
 
-🗓 Display 24-hour weather summary in a collection view with a 9-Day forecast in a table view
+🗓 Display 24-hour weather summary in a collection view with a 8-Day forecast in a table view
 
 ## Requirements
 
