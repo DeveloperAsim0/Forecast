@@ -16,7 +16,7 @@ This app shows real-time weather updates for your current location and any custo
 
 1. Implemented [OpenWeatherMap](https://openweathermap.org) API to get weather data.
 2. CocoaPods used ~> [Alamofire](https://github.com/Alamofire/Alamofire), [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON)
-3. Standard Libraries used ~> [Core Location](https://developer.apple.com/documentation/corelocation)
+3. Standard Libraries used ~> [Core Location](https://developer.apple.com/documentation/corelocation) 
 
 ## TODO  [ ✅: Done, ⏳: Working on it, 🗓: Future plan ]
 
