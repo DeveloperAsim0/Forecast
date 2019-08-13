@@ -16,7 +16,9 @@ This app shows real-time weather updates for your current location and any custo
 
 Implemented [OpenWeatherMap](https://openweathermap.org) API to get weather data.
 
-## TODO ( ✅ : Done, ⏳: Working on it, 🗓 : Future plan )
+## TODO 
+
+### ✅: Done, ⏳: Working on it, 🗓: Future plan
 
 ✅ Get real-time weather updates 
 
