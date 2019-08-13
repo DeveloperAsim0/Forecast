@@ -16,13 +16,19 @@ This app shows real-time weather updates for your current location and any custo
 
 Implemented [OpenWeatherMap](https://openweathermap.org) API to get weather data.
 
-## TODO
+## TODO ( ✅ : Done, ⏳: Working on it, 🗓 : Future plan )
 
 ✅ Get real-time weather updates 
 
 ⏳ Update when pull down 
 
 ⏳ Background animation 
+
+⏳ Displays the sunset and sunrise hours
+
+⏳ The low and high temperature for the current day
+
+🗓 Display 24-hour weather summary in a collection view with a 9-Day forecast in a table view
 
 ## Requirements
 
